@@ -10,7 +10,7 @@ their resume. This tool reasons about evidence, with citations.
 
 ## Live Demo
 
-🚀 **[Try it here](https://saumyadip92-ai-resume-analyzer.streamlit.app)** — upload a resume PDF + paste a JD, get an evidence-based audit in 30 seconds.
+🚀 **[Try it here](https://resume-auditor.streamlit.app)** — upload a resume PDF + paste a JD, get an evidence-based audit in 30 seconds.
 
 ## How it works
 
